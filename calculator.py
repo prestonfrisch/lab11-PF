@@ -1,3 +1,6 @@
+# https://github.com/prestonfrisch/lab11-PF.git
+# Partner 1: Preston Frisch
+
 import math
 
 def square_root(a):
